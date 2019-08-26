@@ -2,6 +2,10 @@
 
 .vs/
 *.user
+*.sln
+*.vcxproj
+*.filters
 
 /include/
 /build/
+/publish/
